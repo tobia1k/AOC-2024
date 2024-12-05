@@ -1,0 +1,15 @@
+D:\advent-of-code-repo\AOC-2024\day-1\historian-hysteria\bin\Debug\net9.0\historian-hysteria.exe
+D:\advent-of-code-repo\AOC-2024\day-1\historian-hysteria\bin\Debug\net9.0\historian-hysteria.deps.json
+D:\advent-of-code-repo\AOC-2024\day-1\historian-hysteria\bin\Debug\net9.0\historian-hysteria.runtimeconfig.json
+D:\advent-of-code-repo\AOC-2024\day-1\historian-hysteria\bin\Debug\net9.0\historian-hysteria.dll
+D:\advent-of-code-repo\AOC-2024\day-1\historian-hysteria\bin\Debug\net9.0\historian-hysteria.pdb
+D:\advent-of-code-repo\AOC-2024\day-1\historian-hysteria\obj\Debug\net9.0\historian-hysteria.GeneratedMSBuildEditorConfig.editorconfig
+D:\advent-of-code-repo\AOC-2024\day-1\historian-hysteria\obj\Debug\net9.0\historian-hysteria.AssemblyInfoInputs.cache
+D:\advent-of-code-repo\AOC-2024\day-1\historian-hysteria\obj\Debug\net9.0\historian-hysteria.AssemblyInfo.cs
+D:\advent-of-code-repo\AOC-2024\day-1\historian-hysteria\obj\Debug\net9.0\historian-hysteria.csproj.CoreCompileInputs.cache
+D:\advent-of-code-repo\AOC-2024\day-1\historian-hysteria\obj\Debug\net9.0\historian-hysteria.sourcelink.json
+D:\advent-of-code-repo\AOC-2024\day-1\historian-hysteria\obj\Debug\net9.0\historian-hysteria.dll
+D:\advent-of-code-repo\AOC-2024\day-1\historian-hysteria\obj\Debug\net9.0\refint\historian-hysteria.dll
+D:\advent-of-code-repo\AOC-2024\day-1\historian-hysteria\obj\Debug\net9.0\historian-hysteria.pdb
+D:\advent-of-code-repo\AOC-2024\day-1\historian-hysteria\obj\Debug\net9.0\historian-hysteria.genruntimeconfig.cache
+D:\advent-of-code-repo\AOC-2024\day-1\historian-hysteria\obj\Debug\net9.0\ref\historian-hysteria.dll

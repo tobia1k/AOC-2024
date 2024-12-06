@@ -1,0 +1,15 @@
+D:\advent-of-code-repo\AOC-2024\day-2\red-nosed-reports\bin\Debug\net9.0\red-nosed-reports.exe
+D:\advent-of-code-repo\AOC-2024\day-2\red-nosed-reports\bin\Debug\net9.0\red-nosed-reports.deps.json
+D:\advent-of-code-repo\AOC-2024\day-2\red-nosed-reports\bin\Debug\net9.0\red-nosed-reports.runtimeconfig.json
+D:\advent-of-code-repo\AOC-2024\day-2\red-nosed-reports\bin\Debug\net9.0\red-nosed-reports.dll
+D:\advent-of-code-repo\AOC-2024\day-2\red-nosed-reports\bin\Debug\net9.0\red-nosed-reports.pdb
+D:\advent-of-code-repo\AOC-2024\day-2\red-nosed-reports\obj\Debug\net9.0\red-nosed-reports.GeneratedMSBuildEditorConfig.editorconfig
+D:\advent-of-code-repo\AOC-2024\day-2\red-nosed-reports\obj\Debug\net9.0\red-nosed-reports.AssemblyInfoInputs.cache
+D:\advent-of-code-repo\AOC-2024\day-2\red-nosed-reports\obj\Debug\net9.0\red-nosed-reports.AssemblyInfo.cs
+D:\advent-of-code-repo\AOC-2024\day-2\red-nosed-reports\obj\Debug\net9.0\red-nosed-reports.csproj.CoreCompileInputs.cache
+D:\advent-of-code-repo\AOC-2024\day-2\red-nosed-reports\obj\Debug\net9.0\red-nosed-reports.sourcelink.json
+D:\advent-of-code-repo\AOC-2024\day-2\red-nosed-reports\obj\Debug\net9.0\red-nosed-reports.dll
+D:\advent-of-code-repo\AOC-2024\day-2\red-nosed-reports\obj\Debug\net9.0\refint\red-nosed-reports.dll
+D:\advent-of-code-repo\AOC-2024\day-2\red-nosed-reports\obj\Debug\net9.0\red-nosed-reports.pdb
+D:\advent-of-code-repo\AOC-2024\day-2\red-nosed-reports\obj\Debug\net9.0\red-nosed-reports.genruntimeconfig.cache
+D:\advent-of-code-repo\AOC-2024\day-2\red-nosed-reports\obj\Debug\net9.0\ref\red-nosed-reports.dll

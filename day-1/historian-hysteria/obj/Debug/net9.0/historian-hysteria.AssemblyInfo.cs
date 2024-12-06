@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("historian-hysteria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2243e7a9a3bb87a1016e4e9408876ca99d5469c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b562e36a9501843bdb40c99d52398d90bcc1c3ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("historian-hysteria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("historian-hysteria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

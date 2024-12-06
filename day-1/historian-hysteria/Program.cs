@@ -42,7 +42,24 @@ class Program
         Console.WriteLine(total);
 
         sr.Close();
-        Console.ReadLine();
+
+        
+        // Part Two
+        int similarity = 0;
+
+        for (int i = 0; i < leftArray.Length; i++) {
+            int count = 0;
+            
+            for (int j = 0; j < rightArray.Length; j++) {
+                if (leftArray[i] == rightArray[j]) {
+                    count++;
+                }
+            }
+            similarity += leftArray[i] * count;
+        }
+
+        Console.WriteLine(similarity);
+        
         }
         catch(Exception e) 
         {

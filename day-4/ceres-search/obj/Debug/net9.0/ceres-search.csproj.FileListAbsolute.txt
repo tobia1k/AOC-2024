@@ -1,0 +1,15 @@
+D:\advent-of-code-repo\AOC-2024\day-4\ceres-search\bin\Debug\net9.0\ceres-search.exe
+D:\advent-of-code-repo\AOC-2024\day-4\ceres-search\bin\Debug\net9.0\ceres-search.deps.json
+D:\advent-of-code-repo\AOC-2024\day-4\ceres-search\bin\Debug\net9.0\ceres-search.runtimeconfig.json
+D:\advent-of-code-repo\AOC-2024\day-4\ceres-search\bin\Debug\net9.0\ceres-search.dll
+D:\advent-of-code-repo\AOC-2024\day-4\ceres-search\bin\Debug\net9.0\ceres-search.pdb
+D:\advent-of-code-repo\AOC-2024\day-4\ceres-search\obj\Debug\net9.0\ceres-search.GeneratedMSBuildEditorConfig.editorconfig
+D:\advent-of-code-repo\AOC-2024\day-4\ceres-search\obj\Debug\net9.0\ceres-search.AssemblyInfoInputs.cache
+D:\advent-of-code-repo\AOC-2024\day-4\ceres-search\obj\Debug\net9.0\ceres-search.AssemblyInfo.cs
+D:\advent-of-code-repo\AOC-2024\day-4\ceres-search\obj\Debug\net9.0\ceres-search.csproj.CoreCompileInputs.cache
+D:\advent-of-code-repo\AOC-2024\day-4\ceres-search\obj\Debug\net9.0\ceres-search.sourcelink.json
+D:\advent-of-code-repo\AOC-2024\day-4\ceres-search\obj\Debug\net9.0\ceres-search.dll
+D:\advent-of-code-repo\AOC-2024\day-4\ceres-search\obj\Debug\net9.0\refint\ceres-search.dll
+D:\advent-of-code-repo\AOC-2024\day-4\ceres-search\obj\Debug\net9.0\ceres-search.pdb
+D:\advent-of-code-repo\AOC-2024\day-4\ceres-search\obj\Debug\net9.0\ceres-search.genruntimeconfig.cache
+D:\advent-of-code-repo\AOC-2024\day-4\ceres-search\obj\Debug\net9.0\ref\ceres-search.dll

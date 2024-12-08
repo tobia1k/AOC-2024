@@ -1,0 +1,15 @@
+D:\advent-of-code-repo\AOC-2024\day-3\mull-it-over\bin\Debug\net9.0\mull-it-over.exe
+D:\advent-of-code-repo\AOC-2024\day-3\mull-it-over\bin\Debug\net9.0\mull-it-over.deps.json
+D:\advent-of-code-repo\AOC-2024\day-3\mull-it-over\bin\Debug\net9.0\mull-it-over.runtimeconfig.json
+D:\advent-of-code-repo\AOC-2024\day-3\mull-it-over\bin\Debug\net9.0\mull-it-over.dll
+D:\advent-of-code-repo\AOC-2024\day-3\mull-it-over\bin\Debug\net9.0\mull-it-over.pdb
+D:\advent-of-code-repo\AOC-2024\day-3\mull-it-over\obj\Debug\net9.0\mull-it-over.GeneratedMSBuildEditorConfig.editorconfig
+D:\advent-of-code-repo\AOC-2024\day-3\mull-it-over\obj\Debug\net9.0\mull-it-over.AssemblyInfoInputs.cache
+D:\advent-of-code-repo\AOC-2024\day-3\mull-it-over\obj\Debug\net9.0\mull-it-over.AssemblyInfo.cs
+D:\advent-of-code-repo\AOC-2024\day-3\mull-it-over\obj\Debug\net9.0\mull-it-over.csproj.CoreCompileInputs.cache
+D:\advent-of-code-repo\AOC-2024\day-3\mull-it-over\obj\Debug\net9.0\mull-it-over.sourcelink.json
+D:\advent-of-code-repo\AOC-2024\day-3\mull-it-over\obj\Debug\net9.0\mull-it-over.dll
+D:\advent-of-code-repo\AOC-2024\day-3\mull-it-over\obj\Debug\net9.0\refint\mull-it-over.dll
+D:\advent-of-code-repo\AOC-2024\day-3\mull-it-over\obj\Debug\net9.0\mull-it-over.pdb
+D:\advent-of-code-repo\AOC-2024\day-3\mull-it-over\obj\Debug\net9.0\mull-it-over.genruntimeconfig.cache
+D:\advent-of-code-repo\AOC-2024\day-3\mull-it-over\obj\Debug\net9.0\ref\mull-it-over.dll

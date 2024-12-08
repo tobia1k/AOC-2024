@@ -10,7 +10,7 @@ class Program
             // "mul(X,Y)", also captures the two numbers
             Regex regex = new Regex(@"mul\(([0-9]{1,3}),([0-9]{1,3})\)");
             StreamReader sr = new StreamReader("input.txt");
-            string line;
+            string? line;
             int total = 0;
             while ((line = sr.ReadLine()) != null) {
                 MatchCollection matches = regex.Matches(line);

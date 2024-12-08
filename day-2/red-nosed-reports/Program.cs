@@ -7,7 +7,7 @@ class Program
         try 
         {
             StreamReader sr = new StreamReader("input.txt");
-            string line;
+            string? line;
             int safeCount = 0;
             
             while((line = sr.ReadLine()) != null)

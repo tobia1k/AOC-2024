@@ -8,14 +8,29 @@ class Program
         try
         {
             // "mul(X,Y)", also captures the two numbers
-            Regex regex = new Regex(@"mul\(([0-9]{1,3}),([0-9]{1,3})\)");
+            Regex regex = new Regex(@"mul\(([0-9]{1,3}),([0-9]{1,3})\)|do\(\)|don't\(\)");
             StreamReader sr = new StreamReader("input.txt");
+            bool toggleMul = true;
             string? line;
             int total = 0;
             while ((line = sr.ReadLine()) != null) {
                 MatchCollection matches = regex.Matches(line);
                 foreach (Match match in matches) {
-                    total += int.Parse(match.Groups[1].Value) * int.Parse(match.Groups[2].Value);
+                    if (match.Value == "do()") {
+                        toggleMul = true;
+                    }
+                    else if (match.Value == "don't()") {
+                        toggleMul = false;
+                    }
+                    else {
+                        if (toggleMul) {
+                            total += int.Parse(match.Groups[1].Value) * int.Parse(match.Groups[2].Value);
+                        }
+                        else {
+                            continue;
+                        }
+                    }
+                    
                 }
             }
             Console.WriteLine(total);

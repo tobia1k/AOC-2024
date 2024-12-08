@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ceres-search")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dd8fd55347c874eb473d28a1cd1c3548c0438e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d524b2806aaf7ad2f7d2a947355871d6d373ffe3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ceres-search")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ceres-search")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

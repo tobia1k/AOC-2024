@@ -117,7 +117,6 @@ class Program
             {
                 for (int col = 1; col < input.Length - 1; col++)
                 {
-                    string xMas = "";
                     if (input[row][col] == "A") 
                     {
                         if (IsValidXPattern(input, row, col)){

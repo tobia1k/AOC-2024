@@ -1,0 +1,15 @@
+D:\advent-of-code-repo\AOC-2024\day-5\print-queue\bin\Debug\net9.0\print-queue.exe
+D:\advent-of-code-repo\AOC-2024\day-5\print-queue\bin\Debug\net9.0\print-queue.deps.json
+D:\advent-of-code-repo\AOC-2024\day-5\print-queue\bin\Debug\net9.0\print-queue.runtimeconfig.json
+D:\advent-of-code-repo\AOC-2024\day-5\print-queue\bin\Debug\net9.0\print-queue.dll
+D:\advent-of-code-repo\AOC-2024\day-5\print-queue\bin\Debug\net9.0\print-queue.pdb
+D:\advent-of-code-repo\AOC-2024\day-5\print-queue\obj\Debug\net9.0\print-queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\advent-of-code-repo\AOC-2024\day-5\print-queue\obj\Debug\net9.0\print-queue.AssemblyInfoInputs.cache
+D:\advent-of-code-repo\AOC-2024\day-5\print-queue\obj\Debug\net9.0\print-queue.AssemblyInfo.cs
+D:\advent-of-code-repo\AOC-2024\day-5\print-queue\obj\Debug\net9.0\print-queue.csproj.CoreCompileInputs.cache
+D:\advent-of-code-repo\AOC-2024\day-5\print-queue\obj\Debug\net9.0\print-queue.sourcelink.json
+D:\advent-of-code-repo\AOC-2024\day-5\print-queue\obj\Debug\net9.0\print-queue.dll
+D:\advent-of-code-repo\AOC-2024\day-5\print-queue\obj\Debug\net9.0\refint\print-queue.dll
+D:\advent-of-code-repo\AOC-2024\day-5\print-queue\obj\Debug\net9.0\print-queue.pdb
+D:\advent-of-code-repo\AOC-2024\day-5\print-queue\obj\Debug\net9.0\print-queue.genruntimeconfig.cache
+D:\advent-of-code-repo\AOC-2024\day-5\print-queue\obj\Debug\net9.0\ref\print-queue.dll

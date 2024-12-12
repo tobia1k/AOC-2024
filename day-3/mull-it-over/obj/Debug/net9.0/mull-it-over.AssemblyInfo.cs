@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mull-it-over")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+218f9778691ef27357e2afa4b89dccdb78b2a86d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+060dddbbef1f89243e9c8193817c7b5e6647eaf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("mull-it-over")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mull-it-over")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

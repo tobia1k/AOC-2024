@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("red-nosed-reports")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14de6c80a0559f48c06c230847176fefc2a80c56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4329eec38ae5c5e1f3fdbff9cfd0024db097d264")]
 [assembly: System.Reflection.AssemblyProductAttribute("red-nosed-reports")]
 [assembly: System.Reflection.AssemblyTitleAttribute("red-nosed-reports")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

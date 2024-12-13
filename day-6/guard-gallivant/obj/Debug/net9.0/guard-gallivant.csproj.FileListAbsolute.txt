@@ -1,0 +1,15 @@
+D:\advent-of-code-repo\AOC-2024\day-6\guard-gallivant\bin\Debug\net9.0\guard-gallivant.exe
+D:\advent-of-code-repo\AOC-2024\day-6\guard-gallivant\bin\Debug\net9.0\guard-gallivant.deps.json
+D:\advent-of-code-repo\AOC-2024\day-6\guard-gallivant\bin\Debug\net9.0\guard-gallivant.runtimeconfig.json
+D:\advent-of-code-repo\AOC-2024\day-6\guard-gallivant\bin\Debug\net9.0\guard-gallivant.dll
+D:\advent-of-code-repo\AOC-2024\day-6\guard-gallivant\bin\Debug\net9.0\guard-gallivant.pdb
+D:\advent-of-code-repo\AOC-2024\day-6\guard-gallivant\obj\Debug\net9.0\guard-gallivant.GeneratedMSBuildEditorConfig.editorconfig
+D:\advent-of-code-repo\AOC-2024\day-6\guard-gallivant\obj\Debug\net9.0\guard-gallivant.AssemblyInfoInputs.cache
+D:\advent-of-code-repo\AOC-2024\day-6\guard-gallivant\obj\Debug\net9.0\guard-gallivant.AssemblyInfo.cs
+D:\advent-of-code-repo\AOC-2024\day-6\guard-gallivant\obj\Debug\net9.0\guard-gallivant.csproj.CoreCompileInputs.cache
+D:\advent-of-code-repo\AOC-2024\day-6\guard-gallivant\obj\Debug\net9.0\guard-gallivant.sourcelink.json
+D:\advent-of-code-repo\AOC-2024\day-6\guard-gallivant\obj\Debug\net9.0\guard-gallivant.dll
+D:\advent-of-code-repo\AOC-2024\day-6\guard-gallivant\obj\Debug\net9.0\refint\guard-gallivant.dll
+D:\advent-of-code-repo\AOC-2024\day-6\guard-gallivant\obj\Debug\net9.0\guard-gallivant.pdb
+D:\advent-of-code-repo\AOC-2024\day-6\guard-gallivant\obj\Debug\net9.0\guard-gallivant.genruntimeconfig.cache
+D:\advent-of-code-repo\AOC-2024\day-6\guard-gallivant\obj\Debug\net9.0\ref\guard-gallivant.dll
